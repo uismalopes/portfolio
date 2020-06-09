@@ -19,7 +19,7 @@
         {
             "titulo": "Tetris",
             "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/jogos/tetris",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/tetris/",
             "image": "thumb_tetris.jpg",
             "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
             "filter": "games"
@@ -27,7 +27,7 @@
         {
             "titulo": "Flappy Bird",
             "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/jogos/flappyBird",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/flappyBird",
             "image": "thumb_flappyBird.jpg",
             "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
             "filter": "games"
@@ -35,7 +35,7 @@
         {
             "titulo": "Breakout",
             "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/jogos/breakout",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/breakout",
             "image": "thumb_breakout.jpg",
             "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
             "filter": "games"
@@ -43,7 +43,7 @@
         {
             "titulo": "Space Game",
             "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/jogos/space_game",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/space_game",
             "image": "thumb_spaceGame.jpg",
             "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
             "filter": "games"
@@ -51,7 +51,7 @@
         {
             "titulo": "Lista de Compras",
             "subtitulo": "aplicativos",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/app/javascript/compras",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/app/javascript/compras",
             "image": "thumb_jsListaCompras.jpg",
             "descricao": "Aplicativo desenvolvido em Javascript, HTML e CSS, com a finalidade de estudo.",
             "filter": "aplicativos"
@@ -59,7 +59,7 @@
         {
             "titulo": "Lista de Tarefas",
             "subtitulo": "aplicativos",
-            "link": "https://uismalopes.github.io/portfolio/assets/iframes/app/angularJS/lista-tarefas",
+            "link": "https://uismalopes.github.io/projetos-dev/iframes/app/angularJS/lista-tarefas",
             "image": "thumb_angularJSListaTarefas.jpg",
             "descricao": "Aplicativo desenvolvido em AngularJS, HTML e CSS, com a finalidade de estudo.",
             "filter": "aplicativos"

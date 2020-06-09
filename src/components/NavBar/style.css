@@ -1,11 +1,25 @@
+/* NAVBAR */
+.content-navbar {
+    max-width: 80px;
+    width: 100%;
+    display: block;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    z-index: 10;
+}
+
+#menu-container {
+    transition: all 350ms;
+    -webkit-transition: all 350ms;
+    -moz-transition: all 350ms;
+}
+
 #menu-container .nav-bar{
     width: 100%;
     background-color: var(--bg-navbar);
     height: 100%;
     position: relative;
-    transition: all 350ms;
-    -webkit-transition: all 350ms;
-    -moz-transition: all 350ms;
 }
 
 #menu-container  .list-menu a {
@@ -30,7 +44,7 @@
     color: var(--color-primary);
 }
 
-#menu-container .icon-menu{
+.icon-menu{
     position: fixed;
     right: 15px;
     top: 10px;
@@ -41,10 +55,10 @@
 }
 
 @media (max-width: 768px){
-    #menu-container .nav-bar.hide-mobile{
+    #menu-container.hide-mobile{
         left: -100%;
     }
-    #menu-container .nav-bar.show{
+    #menu-container.show{
         left: 0!important;
     }
 }

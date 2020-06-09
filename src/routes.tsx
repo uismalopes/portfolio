@@ -9,9 +9,8 @@ import Works from './pages/Works';
 const Routes = ()=>{
     return(
         <BrowserRouter>
-            <div className="content-navbar">
-                <NavBar />
-            </div>
+            
+            <NavBar />
             <div className="h-100 d-flex justify-content-center align-items-center flex-wrap">
                 <Route path="/" component={Home} exact />
                 <Route path="/about" component={About} />
