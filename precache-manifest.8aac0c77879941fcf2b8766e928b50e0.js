@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2154a0271152aa88bb3c2760c9a3f05e",
+    "revision": "5e31e6387162bad5a47e4d91625b9c92",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "5eb8dd513615f0495cca",
+    "revision": "ec7666bdbc48c18af78d",
     "url": "/portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "5aa89046c99b89c18c7a",
-    "url": "/portfolio/static/css/main.e6219221.chunk.css"
+    "revision": "2cdc4f6721ce623c4351",
+    "url": "/portfolio/static/css/main.4a4dc676.chunk.css"
   },
   {
-    "revision": "5eb8dd513615f0495cca",
-    "url": "/portfolio/static/js/2.4d153549.chunk.js"
+    "revision": "ec7666bdbc48c18af78d",
+    "url": "/portfolio/static/js/2.e5cc4a11.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portfolio/static/js/2.4d153549.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.e5cc4a11.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5aa89046c99b89c18c7a",
-    "url": "/portfolio/static/js/main.313c17ea.chunk.js"
+    "revision": "2cdc4f6721ce623c4351",
+    "url": "/portfolio/static/js/main.0e780f13.chunk.js"
   },
   {
     "revision": "88fbd3d397ae3690d5f2",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f21ac453fce951555306cb85de0389df",
     "url": "/portfolio/static/media/thumb_leccor.f21ac453.jpg"
-  },
-  {
-    "revision": "17736e77eb73e586f9da1f22ca7637c6",
-    "url": "/portfolio/static/media/thumb_novosNegociosIvoire.17736e77.jpg"
   },
   {
     "revision": "a8e1582088147c9b18b2ca7ae907a95b",
