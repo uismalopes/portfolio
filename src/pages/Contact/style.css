@@ -1,0 +1,19 @@
+#contact-page .icon{
+    width: 80px;
+    height: 80px;
+    background-color: var(--color-primary);
+    color: #000;
+    font-size: 35px;
+    transition: all 350ms;
+    -webkit-transition: all 350ms;
+    -moz-transition: all 350ms;
+}
+
+#contact-page a:hover .icon{
+    opacity: 0.5;
+}
+
+#contact-page a {
+    text-decoration: none;
+    color: #fff;
+}

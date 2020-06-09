@@ -1,0 +1,21 @@
+#card-works {
+    border: 1px solid var(--color-primary);
+    border-right: 0;
+    -moz-border-image: -moz-linear-gradient(to right,var(--color-primary) 0,var(--bg-body) 100%);
+    -webkit-border-image: -webkit-linear-gradient(to right,var(--color-primary) 0,var(--bg-body) 100%);
+    border-image: linear-gradient(to right,var(--color-primary) 0,var(--bg-body) 100%);
+    border-image-slice: 1;
+}
+
+#card-works a{
+    color: #fff;
+    text-decoration: none;
+    transition: all 350ms;
+    -webkit-transition: all 350ms;
+    -moz-transition: all 350ms;
+    position: relative;
+}
+
+#card-works .subtitulo {
+    color: var(--color-primary);
+}
