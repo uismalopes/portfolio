@@ -21,7 +21,7 @@ const Contact = ()=>{
                                 </span>
                             </Col>
                             <Col>
-                                <span className="h4 m-0">uisma@outlook.com</span>
+                                <span className="h4 m-0 text-center text-lg-left d-block">uisma@outlook.com</span>
                             </Col>
                         </Row>
                     </a>
@@ -35,7 +35,7 @@ const Contact = ()=>{
                                 </span>
                             </Col>
                             <Col>
-                                <span className="h4 m-0">uismalopes</span>
+                                <span className="h4 m-0 text-center text-lg-left d-block">uismalopes</span>
                             </Col>
                         </Row>
                     </a>
@@ -49,7 +49,7 @@ const Contact = ()=>{
                                 </span>
                             </Col>
                             <Col>
-                                <span className="h4 m-0">@uismalopes</span>
+                                <span className="h4 m-0 text-center text-lg-left d-block">@uismalopes</span>
                             </Col>
                         </Row>
                     </a>
