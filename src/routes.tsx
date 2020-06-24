@@ -10,7 +10,7 @@ const Routes = ()=>{
     return(
         <HashRouter>
             <NavBar />
-            <div className="h-100 d-flex justify-content-center align-items-center flex-wrap">
+            <div className="h-100 justify-content-center align-items-center flex-content-center">
                 <Route path="/" component={Home} exact />
                 <Route path="/about" component={About} />
                 <Route path="/contact" component={Contact} />

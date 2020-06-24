@@ -15,7 +15,7 @@ const About = ()=>{
                 <Title title="resumo" />
                 <div className="mt-5">
                     <Row>
-                        <Col lg={6}>
+                        <Col lg={6} className="mb-3">
                             <h4 className="text-white font-weight-bold d-flex mb-3">
                                 <FiBriefcase /> <span className="ml-2">Carreira</span>
                             </h4>
