@@ -1,78 +1,60 @@
 {
-    "carreira": [
-        {
-            "inicio": 2019,
-            "finalizado": false,
-            "titulo": "Desenvolvedor front-end",
-            "subtitulo": "Suthub",
-            "descricao": "Desenvolvimento e manutenção front-end de sites e Landing pages."
-        },
-        {
-            "inicio": 2018,
-            "fim": 2019,
-            "finalizado": true,
-            "titulo": "Desenvolvedor Web",
-            "subtitulo": "Oliver",
-            "descricao": "Desenvolvimento e manutenção front-end de sites, Landing page e e-mail marketing."
-        },
-        {
-            "inicio": 2015,
-            "fim": 2018,
-            "finalizado": true,
-            "titulo": "Programador Júnior",
-            "subtitulo": "Ivoire Design",
-            "descricao": "Desenvolvimento e manutenção front-end de sites e e-mail marketing."
-        }
-    ],
-    "formacao": [
-        {
-            "inicio": 2019,
-            "finalizado": false,
-            "titulo": "Ciência da Computação",
-            "subtitulo": "Universidade São Judas Tadeu",
-            "descricao": "Curso de graduação com duração de 4 anos."  
-        },
-        {
-            "inicio": 2018,
-            "fim": 2018,
-            "finalizado": true,
-            "titulo": "Angular",
-            "subtitulo": "Caelum",
-            "descricao": "Angular para construção de Web Apps."  
-        },
-        {
-            "inicio": 2018,
-            "fim": 2018,
-            "finalizado": true,
-            "titulo": "Javascript, Javascript ES6+, NodeJS, ReactJS, React Native",
-            "subtitulo": "Rocketseat",
-            "descricao": "Cursos realizados em plataforma online."  
-        },
-        {
-            "inicio": 2012,
-            "fim": 2014,
-            "finalizado": true,
-            "titulo": "Web Design",
-            "subtitulo": "Microcamp",
-            "descricao": "Curso profissionalizante com duração de 2 anos."  
-        }
-    ],
-    "dev": [
-        "HTML",
-        "CSS",
-        "SASS",
-        "LESS",
-        "Bootstrap",
-        "Gulp",
-        "Javascript",
-        "Jquery",
-        "Angular",
-        "Vue",
-        "React"
-    ],
-    "design": [
-        "Photoshop",
-        "Fireworks",
-        "Illustrator"
-    ]
+  "career": [
+    {
+      "start": 2019,
+      "current": true,
+      "title": "Desenvolvedor front-end",
+      "company": "Suthub",
+      "description": "Desenvolvimento e manutenção front-end de sites e Landing pages."
+    },
+    {
+      "start": 2018,
+      "end": 2019,
+      "current": false,
+      "title": "Desenvolvedor Web",
+      "company": "Oliver",
+      "description": "Desenvolvimento e manutenção front-end de sites, Landing page e e-mail marketing."
+    },
+    {
+      "start": 2015,
+      "end": 2018,
+      "current": false,
+      "title": "Programador Júnior",
+      "company": "Ivoire Design",
+      "description": "Desenvolvimento e manutenção front-end de sites e e-mail marketing."
+    }
+  ],
+  "courses": [
+    {
+      "start": 2019,
+      "current": true,
+      "title": "Ciência da Computação",
+      "school": "Universidade São Judas Tadeu",
+      "description": "Curso de graduação com duração de 4 anos."
+    },
+    {
+      "start": 2018,
+      "end": 2018,
+      "current": false,
+      "title": "Angular",
+      "school": "Caelum",
+      "description": "Angular para construção de Web Apps."
+    },
+    {
+      "start": 2018,
+      "end": 2018,
+      "current": false,
+      "title": "Javascript, Javascript ES6+, NodeJS, ReactJS, React Native",
+      "school": "Rocketseat",
+      "description": "Cursos realizados em plataforma online."
+    },
+    {
+      "start": 2012,
+      "end": 2014,
+      "current": false,
+      "title": "Web Design",
+      "school": "Microcamp",
+      "description": "Curso profissionalizante com duração de 2 anos."
+    }
+  ]
 }

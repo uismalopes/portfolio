@@ -1,68 +1,68 @@
 {
-    "data": [
-        {
-            "titulo": "Verdegente",
-            "subtitulo": "Sites",
-            "link": "http://www.verdegente.com/",
-            "image": "thumb_verdegente.jpg",
-            "descricao": "Site desenvolvido na agência Ivoire Design onde atuei como Desenvolvedor front-end.",
-            "filter": "sites"
-        },
-        {
-            "titulo": "Leccor",
-            "subtitulo": "Sites",
-            "link": "http://www.leccor.com.br/",
-            "image": "thumb_leccor.jpg",
-            "descricao": "Site desenvolvido na agência Ivoire Design onde atuei como Desenvolvedor front-end.",
-            "filter": "sites"
-        },
-        {
-            "titulo": "Tetris",
-            "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/tetris/",
-            "image": "thumb_tetris.jpg",
-            "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
-            "filter": "games"
-        },
-        {
-            "titulo": "Flappy Bird",
-            "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/flappyBird",
-            "image": "thumb_flappyBird.jpg",
-            "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
-            "filter": "games"
-        },
-        {
-            "titulo": "Breakout",
-            "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/breakout",
-            "image": "thumb_breakout.jpg",
-            "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
-            "filter": "games"
-        },
-        {
-            "titulo": "Space Game",
-            "subtitulo": "Games",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/space_game",
-            "image": "thumb_spaceGame.jpg",
-            "descricao": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
-            "filter": "games"
-        },
-        {
-            "titulo": "Lista de Compras",
-            "subtitulo": "aplicativos",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/app/javascript/compras",
-            "image": "thumb_jsListaCompras.jpg",
-            "descricao": "Aplicativo desenvolvido em Javascript, HTML e CSS, com a finalidade de estudo.",
-            "filter": "aplicativos"
-        },
-        {
-            "titulo": "Lista de Tarefas",
-            "subtitulo": "aplicativos",
-            "link": "https://uismalopes.github.io/projetos-dev/iframes/app/angularJS/lista-tarefas",
-            "image": "thumb_angularJSListaTarefas.jpg",
-            "descricao": "Aplicativo desenvolvido em AngularJS, HTML e CSS, com a finalidade de estudo.",
-            "filter": "aplicativos"
-        }
-    ]
+  "data": [
+    {
+      "title": "Verdegente",
+      "subtitle": "Sites",
+      "link": "http://www.verdegente.com/",
+      "image": "thumb_verdegente.jpg",
+      "description": "Site desenvolvido na agência Ivoire Design onde atuei como Desenvolvedor front-end.",
+      "filter": "sites"
+    },
+    {
+      "title": "Leccor",
+      "subtitle": "Sites",
+      "link": "http://www.leccor.com.br/",
+      "image": "thumb_leccor.jpg",
+      "description": "Site desenvolvido na agência Ivoire Design onde atuei como Desenvolvedor front-end.",
+      "filter": "sites"
+    },
+    {
+      "title": "Tetris",
+      "subtitle": "Games",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/tetris/",
+      "image": "thumb_tetris.jpg",
+      "description": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
+      "filter": "games"
+    },
+    {
+      "title": "Flappy Bird",
+      "subtitle": "Games",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/flappyBird",
+      "image": "thumb_flappyBird.jpg",
+      "description": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
+      "filter": "games"
+    },
+    {
+      "title": "Breakout",
+      "subtitle": "Games",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/breakout",
+      "image": "thumb_breakout.jpg",
+      "description": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
+      "filter": "games"
+    },
+    {
+      "title": "Space Game",
+      "subtitle": "Games",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/jogos/space_game",
+      "image": "thumb_spaceGame.jpg",
+      "description": "Desenvolvido para estudo das linguagens HTML, CSS e Javascript.",
+      "filter": "games"
+    },
+    {
+      "title": "Lista de Compras",
+      "subtitle": "aplicativos",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/app/javascript/compras",
+      "image": "thumb_jsListaCompras.jpg",
+      "description": "Aplicativo desenvolvido em Javascript, HTML e CSS, com a finalidade de estudo.",
+      "filter": "aplicativos"
+    },
+    {
+      "title": "Lista de Tarefas",
+      "subtitle": "aplicativos",
+      "link": "https://uismalopes.github.io/projetos-dev/iframes/app/angularJS/lista-tarefas",
+      "image": "thumb_angularJSListaTarefas.jpg",
+      "description": "Aplicativo desenvolvido em AngularJS, HTML e CSS, com a finalidade de estudo.",
+      "filter": "aplicativos"
+    }
+  ]
 }
