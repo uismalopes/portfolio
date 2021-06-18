@@ -1,9 +1,9 @@
 {
-  "career": [
+  "careers": [
     {
       "start": 2019,
       "current": true,
-      "title": "Desenvolvedor front-end",
+      "title": "Desenvolvedor Front-End",
       "company": "Suthub",
       "description": "Desenvolvimento e manutenção front-end de sites e Landing pages."
     },
@@ -11,7 +11,7 @@
       "start": 2018,
       "end": 2019,
       "current": false,
-      "title": "Desenvolvedor Web",
+      "title": "Desenvolvedor Front-End",
       "company": "Oliver",
       "description": "Desenvolvimento e manutenção front-end de sites, Landing page e e-mail marketing."
     },
@@ -19,7 +19,7 @@
       "start": 2015,
       "end": 2018,
       "current": false,
-      "title": "Programador Júnior",
+      "title": "Desenvolvedor Front-End",
       "company": "Ivoire Design",
       "description": "Desenvolvimento e manutenção front-end de sites e e-mail marketing."
     }

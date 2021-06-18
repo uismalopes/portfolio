@@ -9,7 +9,7 @@ import { PropsWork } from "../../interfaces";
 import "./style.css";
 
 const Works = () => {
-  const { data }: { data: PropsWork[] } = works;
+  const data: PropsWork[] = works;
   const [filters, setFilters] = useState<string[]>([]);
   const [listItem, setListItem] = useState<PropsWork[]>(data);
 

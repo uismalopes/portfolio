@@ -13,18 +13,14 @@ import {
 
 import data from "./data.json";
 import CardResume from "../../components/CardResume";
-import { useState } from "react";
-import { useEffect } from "react";
 import { PropsCareer, PropsCourses } from "../../interfaces";
 
 const About = () => {
-  const [careers, setCareers] = useState<PropsCareer[]>([]);
-  const [courses, setCourses] = useState<PropsCourses[]>([]);
+  const {
+    careers,
+    courses,
+  }: { careers: PropsCareer[]; courses: PropsCourses[] } = data;
 
-  useEffect(() => {
-    setCareers(data.career);
-    setCourses(data.courses);
-  }, []);
   return (
     <div className="container fadeInUp">
       <div className="py-5">
